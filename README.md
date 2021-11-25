@@ -4,7 +4,7 @@
 
 I am Nezhdie from Bulgaria. IT learn by doing and think logically, experiment, get the confidence to be creative with computer programming C# [c<>de]. Create a content and you can check out my LinkedIn profile: https://www.linkedin.com/in/nezhdie-shaip/.
 
-Skills: C# / REACT / JS / HTML / CSS
+Skills: C# / JS / HTML / CSS
 
 - 🔭 I’m currently working on me 
 
