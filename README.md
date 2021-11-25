@@ -1,5 +1,5 @@
 ### Hi there 👋 Devs
-
+![Visitor Count](https : //profile-counter.glitch.me/{NeSh74}/count.svg)
 <!--
 **NeSh74/NeSh74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
