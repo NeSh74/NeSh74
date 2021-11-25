@@ -1,5 +1,6 @@
-### Hi there 👋 Devs
+### Hi there 👋 
 
+I am Nezhdie from Bulgaria. IT learn by doing and think logically, experiment, get the confidence to be creative with computer programming C# [c<>de].
 <!--
 **NeSh74/NeSh74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Visitor Count](https : //profile-counter.glitch.me/{NeSh74}/count.svg)
 -->
