@@ -1,8 +1,13 @@
 ### Hi there 👋 
 
 I am Nezhdie from Bulgaria. IT learn by doing and think logically, experiment, get the confidence to be creative with computer programming C# [c<>de].
+Create content and you can check out my LinkedIn pofile: https://www.linkedin.com/in/nezhdie-shaip/.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeSh74)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **NeSh74/NeSh74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
