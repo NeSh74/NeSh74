@@ -13,7 +13,7 @@ Skills: C# / REACT / JS / HTML / CSS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeSh74)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeSh74a&layout=compact)](https://github.com/NeSh74/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/NeSh74/github-readme-stats)
 
 ![Visitor Count](https://profile-counter.glitch.me/{NeSh74}/count.svg)
 <!--
