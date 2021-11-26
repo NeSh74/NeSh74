@@ -18,6 +18,9 @@ Skills: C# / JS / HTML / CSS
 ![Visitor Count](https://profile-counter.glitch.me/{NeSh74}/count.svg)
 
 ![Profile views](https://gpvc.arturio.dev/NeSh74)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeSh74)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **NeSh74/NeSh74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
