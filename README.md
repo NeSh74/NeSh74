@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <h1>Hi there! <span class="wave">👋</span></h1>
 
 ![Design and Development](hhttps://twitter.com/NejzhdieShaip)
 
