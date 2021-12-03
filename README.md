@@ -5,10 +5,10 @@
 I am Nezhdie from Bulgaria. IT learn by doing and think logically, experiment, get the confidence to be creative with computer programming C# [c<>de]. Create a content, check out my LinkedIn profile: https://www.linkedin.com/in/nezhdie-shaip/.
 
 ### Skills: 
-C# / JS / HTML / CSS
+:point_right: C# / JS / HTML / CSS
 
 - 🔭 I’m currently working on me. 
-           :point_right: 
+            
 ### Follow :point_right: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NeSh74)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nezhdie-shaip/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/n_sh_n_sh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@NejzhdieShaip)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/NeSh74)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16817248)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/NeSh74)  
 
 
