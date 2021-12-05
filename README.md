@@ -1,4 +1,4 @@
-### Hi there 👋, I am Nezhdie Shaip {"A?":"B","a":5,"d":"B","h":"www.canva.com","c":"DAEqEIrI9zw","i":"VUvIHTz357SiurTyttliYg","b":1638739004647,"A":[{"A?":"I","A":110.50953976198352,"B":242.9493592080571,"D":78.10875955962734,"C":69.4055268301343,"a":{"A":false,"I":{"A":"VAEZj3VhfT4","B":{"D":78.10875955962734,"C":69.4055268301343},"F":"B","I":true}}}],"B":1920,"C":1080}
+### Hi there 👋, I am Nezhdie Shaip 
 
 ![Design and Development](hhttps://twitter.com/NejzhdieShaip)
 
