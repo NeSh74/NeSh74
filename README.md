@@ -21,7 +21,7 @@ I am Nezhdie from Bulgaria. IT learn by doing and think logically, experiment, g
 
 ![Profile views](https://gpvc.arturio.dev/NeSh74)  
 
-:wave:
+
  
 
 <!--
