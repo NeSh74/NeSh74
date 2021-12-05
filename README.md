@@ -7,7 +7,7 @@ I am Nezhdie from Bulgaria. IT learn by doing and think logically, experiment, g
 - 🔭 I’m currently working on me. 
 
 ### Skills:
-:point_right: C# / JS / HTML / CSS
+:point_right: file:///C:/Users/lenovo/Downloads/c--4.svgC# / JS / HTML / CSS
             
 ### Follow:
 :point_right: [<img src='https://img.icons8.com/fluency-systems-regular/48/000000/github.png' alt='github' height='40'>](https://github.com/NeSh74) [<img src='https://img.icons8.com/fluency/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/nezhdie-shaip/)   [<img src='https://img.icons8.com/fluency/48/000000/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/n_sh_n_sh/)  [<img src='https://img.icons8.com/fluency/48/000000/stack-of-tweets.png' alt='twitter' height='40'>](https://twitter.com/@NejzhdieShaip)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/NeSh74)  [<img src='https://img.icons8.com/fluency/48/000000/stackoverflow.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16817248)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/NeSh74)  
