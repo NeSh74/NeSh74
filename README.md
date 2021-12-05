@@ -1,4 +1,4 @@
-### Hi there 👋, I am Nezhdie Shaip 👋
+### Hi there 👋, I am Nezhdie Shaip
 
 ![Design and Development](hhttps://twitter.com/NejzhdieShaip)
 
