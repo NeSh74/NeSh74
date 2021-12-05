@@ -21,26 +21,6 @@ I am Nezhdie from Bulgaria. IT learn by doing and think logically, experiment, g
 
 ![Profile views](https://gpvc.arturio.dev/NeSh74)  
 
-span.wave {
-  animation-name: wave-animation;
-  animation-duration: 2.5s;
-  animation-iteration-count: infinite;
-  transform-origin: 70% 70%;
-  display: inline-block;
-}
-
-@keyframes wave-animation {
-    0% { transform: rotate(  0.0deg); }
-   10% { transform: rotate(-10.0deg); }
-   20% { transform: rotate( 12.0deg); }
-   30% { transform: rotate(-10.0deg); }
-   40% { transform: rotate(  9.0deg); }
-   50% { transform: rotate(  0.0deg); }
-  100% { transform: rotate(  0.0deg); }
-}
-<span class="wave">👋</span>
-
-<h1>Can be used inline <span class="wave">👋🏾</span> as well!</h1>
 
  
 
