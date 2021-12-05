@@ -21,25 +21,8 @@ I am Nezhdie from Bulgaria. IT learn by doing and think logically, experiment, g
 
 ![Profile views](https://gpvc.arturio.dev/NeSh74)  
 
-.waving-hand {
-  animation-name: wave-animation;
-  animation-duration: 2.5s;
-  animation-iteration-count: infinite;
-  transform-origin: 70% 70%;
-  display: inline-block;
-}
-
-@keyframes wave-animation {
-  0% { transform: rotate( 0.0deg) }
-  15% { transform: rotate(14.0deg) }  /* The following five values can be played with to make the waving more or less extreme */
-  30% { transform: rotate(-8.0deg) }
-  40% { transform: rotate(14.0deg) }
-  50% { transform: rotate(-4.0deg) }
-  60% { transform: rotate(10.0deg) }
-  70% { transform: rotate( 0.0deg) }  /* Reset for the last half to pause */
- 100% { transform: rotate( 0.0deg) }
-}
-
+<h1>Hi there! <span class="wave">👋</span></h1>
+ 
 
 <!--
 **NeSh74/NeSh74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
