@@ -1,3 +1,4 @@
+![Black White Simple Quote Instagram Post](https://user-images.githubusercontent.com/72164309/144764190-f58dc6b7-a84d-4d76-8936-7b90140de38a.png)
 ### Hi there 👋, I am Nezhdie Shaip
 
 ![Design and Development](hhttps://twitter.com/NejzhdieShaip)
