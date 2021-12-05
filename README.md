@@ -22,7 +22,7 @@ I am Nezhdie from Bulgaria. IT learn by doing and think logically, experiment, g
 
 ![Profile views](https://gpvc.arturio.dev/NeSh74)  
 
-<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?nezhdie-shaip=[nezhdie-shap]" />
+
 
 <!--
 **NeSh74/NeSh74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
