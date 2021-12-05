@@ -22,6 +22,7 @@ I am Nezhdie from Bulgaria. IT learn by doing and think logically, experiment, g
 ![Profile views](https://gpvc.arturio.dev/NeSh74)  
 
 
+[<img src='file:///C:/Users/lenovo/Downloads/c--4.svg' alt='github' height='40'>]
 
 <!--
 **NeSh74/NeSh74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
