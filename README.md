@@ -1,4 +1,4 @@
-### Hi there 👋, I am Nezhdie Shaip :wave:
+### Hi there 👋, I am Nezhdie Shaip 
 
 ![Design and Development](hhttps://twitter.com/NejzhdieShaip)
 
@@ -21,7 +21,14 @@ I am Nezhdie from Bulgaria. IT learn by doing and think logically, experiment, g
 
 ![Profile views](https://gpvc.arturio.dev/NeSh74)  
 
+<span>Example about Waving Hand Emojis, using CSS</span>
+<br />
+<br />
 
+<span class="waving-hand">👋</span>
+
+<!-- There is also the possipility of having the hands in text -->
+<h1>You can also place these hands inline<span class="waving-hand">👋</span>  this works very well</h1>
 
 
 <!--
