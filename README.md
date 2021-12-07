@@ -1,3 +1,4 @@
+![Hi](https://user-images.githubusercontent.com/72164309/144987273-b29cb43e-a625-4721-8a2b-c6a7e08e2f6f.gif)
 ### Hi there 👋, I am Nezhdie Shaip 
 
 ![Design and Development](hhttps://twitter.com/NejzhdieShaip)
