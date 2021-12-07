@@ -1,8 +1,8 @@
-### Hi there 👋, I am Nezhdie Shaip :octocat:
+### Hi there 👋, I am Nezhdie Shaip 
 
 ![Design and Development](hhttps://twitter.com/NejzhdieShaip)
 
-I am Nezhdie from Bulgaria. IT learn by doing and think logically, experiment, get the confidence to be creative with computer programming C# [c<>de]. Create a content, check out my LinkedIn profile: https://www.linkedin.com/in/nezhdie-shaip/.
+:octocat: I am Nezhdie from Bulgaria. IT learn by doing and think logically, experiment, get the confidence to be creative with computer programming C# [c<>de]. Create a content, check out my LinkedIn profile: https://www.linkedin.com/in/nezhdie-shaip/.
 
 - 🔭 I’m currently working on me. 
 
